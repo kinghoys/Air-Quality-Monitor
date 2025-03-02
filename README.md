@@ -1,5 +1,7 @@
 # 🌍 Smart Air Quality Monitoring System
 
+### 🚀 Live Demo: [Air Quality Monitor](https://air-quality-monitor-joae.vercel.app/)
+
 A modern, real-time air quality monitoring platform that combines mobile and fixed sensors to provide comprehensive air quality data for cities, healthcare facilities, and citizens.
 
 ## 🚀 Features
