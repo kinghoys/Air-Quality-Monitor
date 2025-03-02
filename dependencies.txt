@@ -1,0 +1,31 @@
+Here are the `npm` commands to install all the dependencies used in the current state of your Air Quality Monitor app frontend, based on the cleaned-up list without unused dependencies:
+
+### Production Dependencies
+Run these commands in your terminal at the project root (e.g., `D:\air-quality-app\air-quality-monitor`):
+
+```bash
+npm create-react-app air-quality-monitor
+
+npm install chart.js@^4.4.8
+npm install framer-motion@^12.4.7
+npm install react@^18.3.1
+npm install react-dom@^18.3.1
+npm install react-chartjs-2@^5.3.0
+npm install styled-components@^6.1.15
+npm install react-feather@^2.0.10
+npm install @nivo/line@^0.94.0
+npm install @nivo/pie@^0.94.0
+```
+
+### Optional: Install All at Once
+If you prefer a single command:
+
+```bash
+npm install chart.js@^4.4.8 framer-motion@^12.4.7 react@^18.3.1 react-dom@^18.3.1 react-chartjs-2@^5.3.0 styled-components@^6.1.15 react-feather@^2.0.10 @nivo/line@^0.94.0 @nivo/pie@^0.94.0
+```
+
+### Notes
+- No development dependencies are currently required since `autoprefixer`, `postcss`, and `tailwindcss` were unused and removed.
+- If you kept testing libraries or other dependencies, let me know, and I'll add those commands too!
+
+Let me know if you need commands for additional modifications!
